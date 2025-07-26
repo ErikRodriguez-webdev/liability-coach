@@ -12,7 +12,7 @@ Get optimal breakdowns of liabilities
 React | CSS
 
 # Packages used
-? | ?
+Currency.js | ?
 
 # License
 MIT © Erik Rodriguez
